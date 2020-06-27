@@ -16,7 +16,7 @@ Most of the values and addresses are hardcoded. Therefore, the tool is not guare
 ## Screenshot
 <img src="https://i.imgur.com/MAjtpG3.png"/>
 
-##Known Issues
+## Known Issues
 * The hitbox drawn on each frame actually uses the data of the last frame.
 * Hitbox of throws is not drawn
 * Hitbox is not drawn when either character is in evasive dash/roll, where the character is hit invincible and can pass through the opponent.
