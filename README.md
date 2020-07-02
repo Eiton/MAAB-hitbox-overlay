@@ -1,6 +1,6 @@
 # MAAB-hitbox-overlay
 
-This is a tool to viualize the hitbox in the PC version of the game Million Arthur Arcana Blood, inspired by the <a href="https://www.reddit.com/r/Guiltygear/comments/42hql7/guilty_gear_xrd_pc_hitbox_overlay/" target="_blank">GGXRD version </a>
+This is a tool to visualize the hitbox in the PC version of the game Million Arthur Arcana Blood, inspired by the <a href="https://www.reddit.com/r/Guiltygear/comments/42hql7/guilty_gear_xrd_pc_hitbox_overlay/" target="_blank">GGXRD version </a>
 
 Most of the values and addresses are hardcoded. Therefore, the tool is not guarenteed to work on every machine.
 
